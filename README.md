@@ -2,6 +2,10 @@
 Developed a Manufacturing Analysis dashboard to monitor defect rates, manufactured quantity, and quality inspection results. Integrated trend analysis, calculated fields, and real-time filtering to identify recurring defects, track root causes, and improve overall product quality.
 
 Created as an Intern Project and have worked on key skills such as Advanced Excel,MySQL,Tableau and Power BI.
+Tableau Dashboard
+
+<img width="1074" height="602" alt="Image" src="https://github.com/user-attachments/assets/28bcd427-d306-4a2d-b342-cc249d716868" />
+
 
 
 Power BI Dashboard
